@@ -1,0 +1,4 @@
+resource_group_name  = "tezo-rg"
+resource_group_location = "east us2"
+vnet_address_space_perfix = "10.0.0.0/16"
+subnet_address_space_perfix = "10.0.1.0/24"
